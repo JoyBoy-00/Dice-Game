@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(20, 20, 20);
+    text-align: center;
+}
+
+h1{
+    color: aquamarine;
+    font-size: 4.5rem;
+    font-weight: 100;
+    padding: 2% 5% 5%;
+    font-family: 'Sigmar', cursive;
+}
+
+/* play */
+
+#play{
+    padding: 0% 20% 8%;
+}
+h2{
+    color: aquamarine;
+    font-size: 1.7rem;
+    font-style: italic;
+    font-weight: bold;
+}
+.btn{
+    margin-top: 3%;
+    padding: 4px 22px;
+    font-size: 2rem;
+    letter-spacing: 2px;
+    font-family: 'Sigmar', cursive;
+}
+
+/* footer  */
+
+#footer{
+    color: white;
+    font-style: italic;
+}
